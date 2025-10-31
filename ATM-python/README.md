@@ -1,0 +1,3 @@
+yahallooo!!
+Welcome to Rizzu's ATM Project 
+In this project, i plan to start simple by learning how to use the language and then as soon i get somewhat proficient i shall implement UI and make the ATM look even cooler! GAMBARIMASSSZOOOOO!!! BISMILLAH LETS START...
